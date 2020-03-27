@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Змея ютуба", "Змея ютуба\Змея ютуба.csproj", "{DBDF4A4C-B055-47C6-A987-143C15E740DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDF4A4C-B055-47C6-A987-143C15E740DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF4A4C-B055-47C6-A987-143C15E740DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF4A4C-B055-47C6-A987-143C15E740DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF4A4C-B055-47C6-A987-143C15E740DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0480A05-A777-4C25-9846-B764A42DFFA5}
+	EndGlobalSection
+EndGlobal
