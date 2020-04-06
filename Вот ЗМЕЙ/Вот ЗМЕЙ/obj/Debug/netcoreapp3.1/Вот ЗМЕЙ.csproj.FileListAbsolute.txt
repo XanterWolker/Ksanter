@@ -10,3 +10,4 @@ C:\Users\Антон\Desktop\Вот ЗМЕЙ\Вот ЗМЕЙ\obj\Debug\netcoreapp
 C:\Users\Антон\Desktop\Вот ЗМЕЙ\Вот ЗМЕЙ\obj\Debug\netcoreapp3.1\Вот ЗМЕЙ.dll
 C:\Users\Антон\Desktop\Вот ЗМЕЙ\Вот ЗМЕЙ\obj\Debug\netcoreapp3.1\Вот ЗМЕЙ.pdb
 C:\Users\Антон\Desktop\Вот ЗМЕЙ\Вот ЗМЕЙ\obj\Debug\netcoreapp3.1\Вот ЗМЕЙ.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Вот ЗМЕЙ\Вот ЗМЕЙ\obj\Debug\netcoreapp3.1\Вот ЗМЕЙ.csprojAssemblyReference.cache
