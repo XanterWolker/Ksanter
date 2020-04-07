@@ -1,0 +1,12 @@
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\bin\Debug\netcoreapp3.1\Вот Змей рабочий.exe
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\bin\Debug\netcoreapp3.1\Вот Змей рабочий.deps.json
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\bin\Debug\netcoreapp3.1\Вот Змей рабочий.runtimeconfig.json
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\bin\Debug\netcoreapp3.1\Вот Змей рабочий.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\bin\Debug\netcoreapp3.1\Вот Змей рабочий.dll
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\bin\Debug\netcoreapp3.1\Вот Змей рабочий.pdb
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\obj\Debug\netcoreapp3.1\Вот Змей рабочий.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\obj\Debug\netcoreapp3.1\Вот Змей рабочий.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\obj\Debug\netcoreapp3.1\Вот Змей рабочий.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\obj\Debug\netcoreapp3.1\Вот Змей рабочий.dll
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\obj\Debug\netcoreapp3.1\Вот Змей рабочий.pdb
+C:\Users\Антон\Desktop\Вот Змей рабочий\Вот Змей рабочий\obj\Debug\netcoreapp3.1\Вот Змей рабочий.genruntimeconfig.cache
