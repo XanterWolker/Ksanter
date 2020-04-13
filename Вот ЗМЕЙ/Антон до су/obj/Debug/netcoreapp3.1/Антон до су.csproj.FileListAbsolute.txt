@@ -1,0 +1,13 @@
+C:\Users\Антон\Desktop\Антон до су\Антон до су\bin\Debug\netcoreapp3.1\Антон до су.exe
+C:\Users\Антон\Desktop\Антон до су\Антон до су\bin\Debug\netcoreapp3.1\Антон до су.deps.json
+C:\Users\Антон\Desktop\Антон до су\Антон до су\bin\Debug\netcoreapp3.1\Антон до су.runtimeconfig.json
+C:\Users\Антон\Desktop\Антон до су\Антон до су\bin\Debug\netcoreapp3.1\Антон до су.runtimeconfig.dev.json
+C:\Users\Антон\Desktop\Антон до су\Антон до су\bin\Debug\netcoreapp3.1\Антон до су.dll
+C:\Users\Антон\Desktop\Антон до су\Антон до су\bin\Debug\netcoreapp3.1\Антон до су.pdb
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.dll
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.pdb
+C:\Users\Антон\Desktop\Антон до су\Антон до су\obj\Debug\netcoreapp3.1\Антон до су.genruntimeconfig.cache
