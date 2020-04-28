@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Вот ЗМЕЙ Релиз на 28.04.2020/1.0.0": {
+        "runtime": {
+          "Вот ЗМЕЙ Релиз на 28.04.2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вот ЗМЕЙ Релиз на 28.04.2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
